@@ -3,7 +3,6 @@
 ---
 I am a futurist, AI/ML Enthusiast, and student researcher.
 
-- 💻 I am currently a research intern at the AI/ML Lab in Rowan University.
 - 🚁I have worked on projects for the Federal Aviation Administration, building solutions powered by deep learning. 
 - 📚In my free time, I love reading articles in Wall Street Journal and MIT Technology Review. 
 - 👩‍💻4 Coding Certifications, 3 Programming Languages, 2 Apps, and counting!
