@@ -9,10 +9,13 @@ I am a futurist, techno-optimist, and student researcher.
 ### 📝: My Projects :
 
 
-- Flight Information Inferencing from Gauge Images: Used Deep Learning to Analyze Cockpit Video Data and track trajectory of the airspeed gauge during flight of the rotorcraft. 
-- Helicopter Attitude Prediction: Extracted Video Frames and Labelled them with Their Attitude.  
-- AI-19 Adviser: App that Predicts One's COVID-19 Mortality Risk Based on Factors like Age, Gender, Location. 
-- NJ X Connect: App that connects individuals at risk of being impacted by flooding with financial and mitigation resources.
+- Flight Information Inferencing from Cockpit Video Data (in Collab with FAA, Georgia Tech, Rowan University) 
+- AI-19 Adviser: App that Predicts One's COVID-19 Mortality Risk Based on Factors like Age, Gender, Location
+- Big Byron Bank: App with 14 Digital Banking Services (in Collab with 13 AP CSA Students)
+- Multi-Modal Databases & LLMs (in Collab with Moffitt Cancer Center)
+- Real-time Audio Encryption System Featuring Chaos Maps (in Collab with Governor's School for STEM)
+- Cryptocurreny Fluctuation + OSINT Tools (in Collab with Network Contagion Research Institute)
+
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
