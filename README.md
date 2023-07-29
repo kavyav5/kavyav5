@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 ---
-I am a futurist, AI/ML Enthusiast, and student researcher.
-
-- 🚁I have worked on projects for the Federal Aviation Administration, building solutions powered by deep learning. 
+I am a futurist, techno-optimist, and student researcher.
 - 📚In my free time, I love reading articles in Wall Street Journal and MIT Technology Review. 
-- 👩‍💻4 Coding Certifications, 3 Programming Languages, 2 Apps, and counting!
+- 👩‍💻4 Coding Certifications, 3 Programming Languages, and counting!
 
 ---
 ### 📝: My Projects :
