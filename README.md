@@ -15,7 +15,8 @@ I am a futurist, techno-optimist, and student researcher.
 - Big Byron Bank: App with 14 Digital Banking Services (in Collab with 13 AP CSA Students)
 - Multi-Modal Databases & LLMs (in Collab with Moffitt Cancer Center)
 - Real-time Audio Encryption System Featuring Chaos Maps (in Collab with Governor's School for STEM)
-- Cryptocurreny Fluctuation + OSINT Tools (in Collab with Network Contagion Research Institute)
+- OSINT + Cryptocurrency Fluctuation Analysis (in Collab with Network Contagion Research Institute)
+- Physics Simulations (E&M + Mechanics)
 
 
 ---
