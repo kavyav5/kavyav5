@@ -1,8 +1,7 @@
 ### Hi there 👋! 
 Welcome to Kavya Venkatesan's GitHub Portfolio!
 ---
-### About Me :
-I am a futurist, techno-optimist, and student researcher.
+### Futurist. Techno-Optimist. Researcher. :
 - 👩‍💻Exploring AI/ML, Cybersecurity, Fintech!
 - 📚In my free time, I love reading articles in Wall Street Journal and MIT Technology Review. 
 
