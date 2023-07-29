@@ -4,7 +4,7 @@ Welcome to Kavya Venkatesan's GitHub Portfolio!
 ### About Me :
 I am a futurist, techno-optimist, and student researcher.
 - 📚In my free time, I love reading articles in Wall Street Journal and MIT Technology Review. 
-- 👩‍💻4 Coding Certifications, 3 Programming Languages, and counting!
+- 👩‍💻Exploring AI/ML, Encryption Algorithms, Data Analytics, Digital Logic Design!
 
 ---
 ### 📝: My Projects :
