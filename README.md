@@ -3,8 +3,8 @@ Welcome to Kavya Venkatesan's GitHub Portfolio!
 ---
 ### About Me :
 I am a futurist, techno-optimist, and student researcher.
-- 📚In my free time, I love reading articles in Wall Street Journal and MIT Technology Review. 
 - 👩‍💻Exploring AI/ML, Cybersecurity, Fintech!
+- 📚In my free time, I love reading articles in Wall Street Journal and MIT Technology Review. 
 
 ---
 ### 📝: My Projects :
